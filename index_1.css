@@ -1,0 +1,90 @@
+body{
+	background-color: #f8f8f8;
+}
+header{
+	float: left;
+	width: 100%;
+	height: 60px;
+	margin-left: 10px;
+	text-align: center;
+	color: black;
+	margin-bottom: 10px;
+}
+.znak{
+	width: 100px;
+	height: 50px;
+	float: left;
+	margin-left: 1px;
+	margin-top:1px;
+}
+nav {
+	text-align: center;
+	color: black;
+	width: 30%;
+	height: 30px;
+	margin-left: 50px;
+	margin-top: 10px;
+	float: right;
+	position: absolute;
+}
+.nava{
+	text-decoration: none;
+	color: black;
+	margin-left: 10px;
+	font-size: 18px;
+	
+}
+.nava:hover{
+	color:#f72dc1;
+}
+hr{
+	width: 90%;
+}
+footer{
+	
+	width: 100%;
+	height: 100px;
+	margin-top: 10px;
+	float: left;
+	background-color: #707070;
+	color: white;
+	text-align: center;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.photo{
+	width: 40px;
+	height: 40px;
+}
+a{
+	margin-left: 5px;
+}
+p{
+	font-size: 20px;
+}
+.glav_photo{
+	width: 100%;
+	height: 500px;
+}
+.site_h{
+	position: absolute;
+	top: 50%;left: 50%;
+	transform: translate(-50%, -50%); 
+	background-color:black; 
+	opacity: 60%;
+}
+.h1_white{
+	color: white;
+}
+footer h1{
+	text-align: center;
+	margin: 10px 0 10px 0;
+}
+.d-block {
+	height: 500px;
+}
+
+#carouselExampleSlidesOnly{
+	margin: 0 auto;
+	width: 50%;
+}
